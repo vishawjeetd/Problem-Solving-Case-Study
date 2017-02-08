@@ -5,7 +5,7 @@ During the session we have learned below points:
  2. How to prepare PSW(Problem Statement Worksheet)?
  3. How to prepare Issue Tree?
 
-During the end of the session we have receieved the case study to solve.
+While concluding the session we receieved the case study to solve.
 
 Problem Statement:
 
